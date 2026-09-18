@@ -1,5 +1,5 @@
 1) W is psi function
 If W n, K (r) is Bloch wawvefuntcion 
-A) show W n, k (r) is related to W n, k (r+R) where R , G are arbitrary translation vectors of real and reciprocal lattices respectively?
+A) show W n, k (r) is related to W n, k+G (r+R) where R , G are arbitrary translation vectors of real and reciprocal lattices respectively?
 Ep is epsilon 
 B) explain how ep n (k) relates ti ep n(k+G)?
