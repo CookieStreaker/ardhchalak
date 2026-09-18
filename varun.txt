@@ -1,5 +1,8 @@
-1) W is psi function
-If W n, K (r) is Bloch wawvefuntcion 
-A) show W n, k (r) is related to W n, k+G (r+R) where R , G are arbitrary translation vectors of real and reciprocal lattices respectively?
-Ep is epsilon 
-B) explain how ep n (k) relates ti ep n(k+G)?
+W Is psi function
+6)If block wavefuntiion representing the electron in lowest band of a 1 d crystal of lattice constant a and total lenght L = Na is given by 
+W k(x)  = square root(1/Na) * cos(2pi x/a) * e^(idx)
+
+ O = phi function
+Show W k(x) = sumatttion n O(x-na)*e^(ikna)
+
+I.e., O(x, na) is of form 0(x-na)
